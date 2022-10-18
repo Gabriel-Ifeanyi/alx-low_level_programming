@@ -5,7 +5,7 @@
  * Return: 0
 */
 int main(void)
-{ 
+{
 	char a;
 	int b;
 	long int c;
@@ -19,4 +19,3 @@ int main(void)
 	printf("Size of a float: %lu byte(S)\n", (unsigned long)sizeof(f));
 	return (0);
 }
-
