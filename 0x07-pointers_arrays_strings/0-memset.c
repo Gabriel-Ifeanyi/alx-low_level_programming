@@ -4,7 +4,7 @@
  * _memset - would write a function that fills memory with a constant byte
  * @s: a string
  * @b: a character
- * @h: an integer
+ * @n: an integer
  * Return: a string
  */
 char *_memset(char *s, char b, unsigned int n)
