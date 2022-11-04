@@ -18,7 +18,7 @@ int sqrt2(int a, int b)
 }
 /**
  * _sprt_recursion - Would return the natural square root of a number n.
- * @n: number interger
+ * @n: number integer
  *
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
