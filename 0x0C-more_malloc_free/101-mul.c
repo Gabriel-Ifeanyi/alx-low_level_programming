@@ -67,7 +67,7 @@ char *iterate_zeroes(char *str)
 }
 
 /**
- * get_digit - Converts a digit character to a corresponding int.
+ * get_digit - Would onvert a digit character to a corresponding int.
  * @c: The character to be converted.
  *
  * Description: If c is a non-digit, the function
@@ -179,7 +179,7 @@ void add_nums(char *final_prod, char *next_prod, int next_len)
 }
 
 /**
- * main - Multiplies two positive numbers.
+ * main - Would multiply two positive numbers.
  * @argv: The number of arguments passed to the program.
  * @argc: An array of pointers to the arguments.
  *
