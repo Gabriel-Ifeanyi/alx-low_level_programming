@@ -88,7 +88,7 @@ int get_digit(char c)
 }
 
 /**
- * get_prod - Multiplies a string of numbers by a single digit.
+ * get_prod - Would multiply a string of numbers by a single digit.
  * @prod: The buffer to store the result.
  * @mult: The string of numbers.
  * @digit: The single digit.
@@ -137,7 +137,7 @@ void get_prod(char *prod, char *mult, int digit, int zeroes)
 }
 
 /**
- * add_nums - Adds the numbers stored in two strings.
+ * add_nums - Would add the numbers stored in two strings.
  * @final_prod: The buffer storing the running final product.
  * @next_prod: The next product to be added.
  * @next_len: The length of next_prod.
